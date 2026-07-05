@@ -8,6 +8,6 @@ namespace: study-app
 namePrefix: dev-
 images:
   - name: ghcr.io/atik-abdullah/study-app-api
-    newTag: ""
+    newTag: "backend-v0.2.2"
   - name: ghcr.io/atik-abdullah/study-app-web
     newTag: frontend-v0.1.0
